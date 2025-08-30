@@ -7,4 +7,4 @@ The README.md file contains any content. -->
 hi
 
 
-<img src="./canvas.gif" width="400" />
+<img src="./canvas.gif" width="200" />
