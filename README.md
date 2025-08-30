@@ -6,4 +6,5 @@ The README.md file contains any content. -->
 
 hi
 
-![Canvas Animation](./canvas.gif)
+
+<img src="./canvas.gif" width="400" />
