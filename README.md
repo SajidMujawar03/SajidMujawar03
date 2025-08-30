@@ -5,3 +5,5 @@ The README.md file contains any content. -->
 
 
 hi
+
+![Canvas Animation](./canvas.gif)
